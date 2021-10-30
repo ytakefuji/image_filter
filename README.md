@@ -12,7 +12,7 @@ $ pyppeteer-install
 
 </pre>
 
-# How to run lab
+# How to run jupyter-lab
 The following command to run jupyter-lab launcher
 
 $ jupyter-lab --no-browser
