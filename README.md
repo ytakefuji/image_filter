@@ -11,6 +11,7 @@ run the following command
 $ pyppeteer-install
 
 </pre>
+
 # How to run lab
 The following command to run jupyter-lab launcher
 
