@@ -10,6 +10,7 @@ $ pyppeteer-install
 </pre>
 # How to run notebook
 The following command to run jupyter-notebook launcher
+
 $ jupyter-notebook
 
 <img src='fil.pdf' width=320 height=240>
