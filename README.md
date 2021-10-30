@@ -8,9 +8,14 @@ run the following command
 $ pyppeteer-install
 
 </pre>
-# How to run notebook
-The following command to run jupyter-notebook launcher
+# How to run lab
+The following command to run jupyter-lab launcher
 
-$ jupyter-notebook
+$ jupyter-lab --no-browser
 
-<img src='fil.pdf' width=320 height=240>
+http address will be shown on the screen.
+
+copy the URL address and past it to browser (chrome or edge)
+
+
+<img src='1.png' width=320 height=240>
