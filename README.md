@@ -7,3 +7,8 @@ run the following command
 $ pyppeteer-install
 
 </pre>
+# How to run notebook
+
+$ ipython notebook or jupyter notebook
+
+<img src=
