@@ -33,6 +33,7 @@ slide channel-1 to 139 to be able to extract a pupil.
 
 <img src='3.png' width=480 height=300>
 
-In order to save the result as pdf file, choose PDFviaHTML menu.
+In order to save the result as pdf file, choose PDFviaHTML menu. 
+filter.pdf will be saved in download directory.
 
 <img src='4.png' width=480 height=300>
