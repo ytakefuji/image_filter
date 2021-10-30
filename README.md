@@ -27,7 +27,7 @@ copy the URL address and past it to browser (chrome or edge).
 click Notebook and save Untitle.ipynb file as filter.ipynb. 
 And copy the content of c.py file and past it to filter.ipynb
 
-<img src='2.png' width=480 height=300>
+
 
 slide channel-1 to 139 to be able to extract a pupil.
 
