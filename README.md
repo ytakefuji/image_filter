@@ -19,6 +19,11 @@ copy the URL address and past it to browser (chrome or edge).
 
 
 <img src='1.png' width=480 height=300>
+
+click notebook.
+
+copy c.py and past it to ipynb
+
 <img src='2.png' width=480 height=300>
 <img src='3.png' width=480 height=300>
 <img src='4.png' width=480 height=300>
