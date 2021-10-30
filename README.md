@@ -37,3 +37,6 @@ In order to save the result as pdf file, choose PDFviaHTML menu.
 filter.pdf will be saved in download directory.
 
 <img src='4.png' width=480 height=300>
+
+# Exercise for students
+Build c.py program.
