@@ -25,6 +25,8 @@ And copy the content of c.py file and past it to filter.ipynb
 
 <img src='2.png' width=480 height=300>
 
+slide channel-1 to 139 to be able to extract a pupil.
+
 <img src='3.png' width=480 height=300>
 
 <img src='4.png' width=480 height=300>
