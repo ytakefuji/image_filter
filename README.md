@@ -40,4 +40,8 @@ filter.pdf will be saved in download directory.
 <img src='4.png' width=480 height=300>
 
 # Exercise for students
-Build c.py program.
+<pre>
+1. Build c.py program.
+2. Build circle.py program to measure the pupil radius.
+
+</pre>
