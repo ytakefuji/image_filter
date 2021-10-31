@@ -1,4 +1,4 @@
-# image_filter
+# image_filter 
 This shows how to interactively build an optimum filter using ipywidgets.
 Using the following picture, this example shows how to extract a pupil image.
 
