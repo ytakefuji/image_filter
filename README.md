@@ -17,7 +17,7 @@ The following command to run jupyter-lab launcher
 
 $ jupyter-lab --no-browser
 
-http address will be shown on the screen.
+URL http address will be shown on the screen.
 
 copy the URL address and past it to browser (chrome or edge).
 
