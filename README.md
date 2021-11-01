@@ -42,6 +42,6 @@ filter.pdf will be saved in download directory.
 # Exercise for students
 <pre>
 1. Build c.py program.
-2. Build circle.py program to measure the pupil radius.
+2. Build iris.py program to measure the pupil radius.
 
 </pre>
