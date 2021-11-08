@@ -21,6 +21,7 @@ URL http address will be shown on the screen.
 
 copy the URL address and past it to browser (chrome or edge).
 
+You must provide permission to localhost in browser.
 
 <img src='1.png' width=480 height=300>
 
